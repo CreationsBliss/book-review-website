@@ -1,8 +1,13 @@
-# Getting Started with Create React App
+# Bookly Book Review 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+bookly [Create React App](https://bookly-book.netlify.app/).
 
-## Available Scripts
+## What is done in this projects
+
+* It is a book review website.
+* In the home page there are 3 reviews.
+* Reviews page hold 6 reviews.
+* Blog page contais 3 questions with answer.
 
 In the project directory, you can run:
 
