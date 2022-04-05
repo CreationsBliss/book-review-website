@@ -1,4 +1,4 @@
-# Bookly Book Review 
+# Bookly Book Review Website
 
 bookly [Create React App](https://bookly-book.netlify.app/).
 
