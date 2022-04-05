@@ -1,0 +1,14 @@
+.site-logo{
+  width: 50px;
+}
+.menu-bar{
+  background-color: #0b2239
+}
+.nav-item{
+  font-weight: 500;
+  color: #cfd9e0; 
+  padding-left: 30px;
+  padding-right: 30px;
+  text-decoration: none;
+  font-weight: 500;
+}
