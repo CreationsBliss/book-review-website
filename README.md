@@ -5,9 +5,9 @@ bookly website link (https://bookly-book.netlify.app/).
 ## What is done in this projects
 
 * It is a book review website.
-* In the home page there are 3 reviews.
-* Reviews page hold 6 reviews.
-* Blog page contais 3 questions with answer.
+* In home page there are 3 reviews.
+* Reviews page holds 6 reviews.
+* Blog page contains 3 questions with answer.
 
 In the project directory, you can run:
 
