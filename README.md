@@ -1,6 +1,6 @@
 # Bookly Book Review Website
 
-bookly [Create React App](https://bookly-book.netlify.app/).
+bookly website link (https://bookly-book.netlify.app/).
 
 ## What is done in this projects
 
