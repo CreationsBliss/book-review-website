@@ -1,6 +1,6 @@
 # Bookly Book Review Website
 
-bookly website link (https://bookly-book.netlify.app/).
+Bookly website link (https://bookly-book.netlify.app/).
 
 ## What is done in this projects
 

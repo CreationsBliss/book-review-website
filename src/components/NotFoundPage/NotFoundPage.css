@@ -28,7 +28,7 @@
   font-weight: 700;
 }
 .home-btn {
-  background: #4ad395;
+  background: #e8b51d;
   color: #fff;
   font-weight: 500;
   text-decoration: none;
@@ -39,11 +39,11 @@
   display: inline-block;
 }
 .home-btn:hover {
-  background: #2bc48a;
+  background: #d9a406;
   color: #fff;
 }
 
-
+/* START RESPONSIVE CSS */
 @media (max-width: 576px) {
 
   .text-404 {
