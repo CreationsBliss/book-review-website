@@ -1,9 +1,11 @@
 import React from 'react';
 import { Card } from 'react-bootstrap';
-import './Review.css';
+import './SingleReview.css'
 
-const Review = (props) => {
+const SingleReview = (props) => {
+
   const {name, picture, comment, rating} = props.review;
+
   return (
     <div className='single-card'>
       <Card>
@@ -20,4 +22,4 @@ const Review = (props) => {
   );
 };
 
-export default Review;
+export default SingleReview;

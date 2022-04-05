@@ -29,7 +29,7 @@ const Home = () => {
         </div>
       </div>
 
-      <div className="review-container mb-5">
+      <div className="review-container">
         <div className="container">
           <div className="row">
             <div className="col-12">
