@@ -1,14 +1,38 @@
-.site-logo{
+.site-logo {
   width: 50px;
 }
-.menu-bar{
+
+.menu-bar {
   background-color: #0b2239;
 }
-.nav-item{
+
+.nav-item {
   font-weight: 500;
-  color: #cfd9e0; 
+  color: #cfd9e0;
   padding-left: 30px;
   padding-right: 30px;
   text-decoration: none;
   font-weight: 500;
+}
+
+.menu-bar-toggle {
+  color: #2bc48a !important;
+  border-color: #2bc48a !important;
+}
+.navbar-toggler:focus {
+  box-shadow: 0 0 0 0rem!important;
+}
+
+/* START RESPONSIVE CSS */
+@media (max-width: 991px) {
+  .sm-menu-bar-spacing {
+    margin-top: 50px;
+    padding-bottom:  50px;
+  }
+
+  .nav-item {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: inline-block;
+  }
 }

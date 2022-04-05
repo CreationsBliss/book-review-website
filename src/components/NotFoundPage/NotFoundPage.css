@@ -1,0 +1,53 @@
+.not-found-container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 100px;
+}
+.error-text {
+  color: #0b2239;
+  font-size: 70px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.text-404 {
+  font-size: 250px;
+  font-weight: 800;
+  color: transparent;
+  background-image: url(https://media.giphy.com/media/3oz8xDp5mAEOAZXEPe/giphy.gif);
+  background-position: center;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+.exist-text,
+.going-back-text {
+  color: #374957;
+  font-size: 18px;
+  font-weight: 700;
+}
+.home-btn {
+  background: #4ad395;
+  color: #fff;
+  font-weight: 500;
+  text-decoration: none;
+  font-size: 16px;
+  padding: 10px 50px;
+  border-radius: 3px;
+  margin-top: 20px;
+  display: inline-block;
+}
+.home-btn:hover {
+  background: #2bc48a;
+  color: #fff;
+}
+
+
+@media (max-width: 576px) {
+
+  .text-404 {
+    font-size: 150px;
+  }
+
+}

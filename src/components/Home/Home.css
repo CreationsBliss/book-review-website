@@ -1,0 +1,69 @@
+.deal-text{
+  color: #4ad395;
+  font-size: 30px;
+  font-weight: 700;
+  margin: 0;
+}
+.off-text{
+  color: #0b2239;
+  font-size: 55px;
+  font-weight: 700;
+  margin: 0;
+  margin-top: 20px;
+}
+.book-brief{
+  color: #0b2239;
+  margin: 0;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.8;
+  margin-top: 20px;
+}
+.shop-now-btn{
+  background: #4ad395;
+  color: #fff;
+  font-weight: 500;
+  text-decoration: none;
+  font-size: 16px;
+  padding: 10px 50px;
+  border-radius: 3px;
+  margin-top: 25px;
+  display: inline-block;
+}
+.shop-now-btn:hover {
+  background: #2bc48a;
+  color: #fff;
+}
+.review-container{
+  background: #f8fafb;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.customer-review-text{
+  color: #0b2239;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 700;
+  margin: 0;
+}
+.review-box{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+.see-all-riviews-btn{
+  background: #4ad395;
+  color: #fff;
+  font-weight: 500;
+  text-decoration: none;
+  font-size: 16px;
+  padding: 10px 50px;
+  border-radius: 3px;
+  margin-top: 50px;
+  display: inline-block;
+}
+.see-all-riviews-btn:hover{
+  background: #2bc48a;
+  color: #fff;
+}
