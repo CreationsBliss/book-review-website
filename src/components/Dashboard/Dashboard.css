@@ -1,0 +1,21 @@
+.dashboard-container{
+  padding-top: 60px;
+  padding-bottom: 60px;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+.month-chart-title {
+  color: #0b2239;
+  font-size: 18px;
+  margin: 0;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+.revenue-chart-title {
+  color: #0b2239;
+  font-size: 18px;
+  margin: 0;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
